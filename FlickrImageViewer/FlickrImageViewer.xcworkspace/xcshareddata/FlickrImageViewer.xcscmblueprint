@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "E754147E2F65DE8FCAD92149771BE622542ED110",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "08F17992C0A794D275F40BD7AC88D769960E501B" : 0,
+    "E754147E2F65DE8FCAD92149771BE622542ED110" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "35446BD0-A5AC-4DC4-98F0-E60780A7247D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "08F17992C0A794D275F40BD7AC88D769960E501B" : "",
+    "E754147E2F65DE8FCAD92149771BE622542ED110" : "FlickrImageViewer\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "FlickrImageViewer",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "FlickrImageViewer\/FlickrImageViewer.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/vlaskos\/matchismo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "08F17992C0A794D275F40BD7AC88D769960E501B"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/vlaskos\/FlickrImageViewer.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E754147E2F65DE8FCAD92149771BE622542ED110"
+    }
+  ]
+}
